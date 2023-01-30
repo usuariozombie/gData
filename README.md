@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Gmod_logo.png" height=50></img><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height=50></img>PyMod
+# <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Gmod_logo.png" height=50></img><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height=50></img>gData
 A way to post and get data from your Garry's Mod server, sending content as json to your API endpoint, and then collecting it with a python request, it has to be used in an helix server, making it really easy to get data from players.
 
 ## Installation
